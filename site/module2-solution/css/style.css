@@ -35,8 +35,8 @@ body {
     top: 0px;
     right: 0px;
     border: 1px solid #000;
-    border-right: 0px;
-    border-top: 0px;
+    border-right: 1px solid transparent;
+    border-top: 1px solid transparent;
     color: white;
     font-size: 18px;
     padding: 5px;
